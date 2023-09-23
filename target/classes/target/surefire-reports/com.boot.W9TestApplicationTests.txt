@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.boot.W9TestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 67.721 s - in com.boot.W9TestApplicationTests
